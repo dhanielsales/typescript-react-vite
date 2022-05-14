@@ -1,5 +1,3 @@
-export const Catalog: React.FC  = () => {
-  return (
-    <div>Catalog</div>
-  )
-}
+export const Catalog: React.FC = () => {
+  return <div>Catalog</div>;
+};
